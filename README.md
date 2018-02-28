@@ -1,4 +1,5 @@
-"""
+*********************************************************Trip Advisor****************************************************************
+
 (1) Which search algorithm seems to work best for each routing options?
 Heuristics search algorithm works best for each routing algorithm. As the heuristics function takes into account an estimated cost to reach the goal state
 rather than considering only the cost to the next hop which might result in a nonoptimal answer.
@@ -44,5 +45,3 @@ following format [current city, names of cities traversed from starting to this 
 reached, the second part of the fringe i.e. names of cities traversed from starting to this city separated by '=' sign is used as a 
 key to fetch data from the solutionDict (a dictionary) about the distance traversed from start to the destination city and also the 
 time is taken to reach the destination city.
-
-"""
