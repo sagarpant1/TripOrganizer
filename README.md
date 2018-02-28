@@ -1,4 +1,4 @@
-*********************************************************Trip Advisor****************************************************************
+                                                    Trip Advisor
 
 (1) Which search algorithm seems to work best for each routing options?
 Heuristics search algorithm works best for each routing algorithm. As the heuristics function takes into account an estimated cost to reach the goal state
